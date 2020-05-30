@@ -35,6 +35,9 @@ public class CaracteristicasGitHub {
         System.out.println("Ingrese la cuarta caracteristica:");
         String c4=objeto.nextLine ();
         
+          System.out.println("Ingrese la quinta caracteristica:");
+        String c5=objeto.nextLine (); 
+        
         System.out.println("           GRACIAS POR SU ATENCION            ");
         
     }
